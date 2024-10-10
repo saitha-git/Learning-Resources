@@ -16,6 +16,7 @@ Beam forming types:
 1. https://www.linkedin.com/pulse/types-beamforming-5g-dan-serbescu/
 
 
-
+# C++
+https://www.linkedin.com/pulse/why-how-learn-c-sushim-shrivastava-lru7c/?trackingId=phG7gfhD%2BJpy%2BQ8QpIVIyQ%3D%3D
 
 
