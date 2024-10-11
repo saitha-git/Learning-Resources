@@ -20,11 +20,11 @@ Beam forming types:
 https://www.linkedin.com/pulse/why-how-learn-c-sushim-shrivastava-lru7c/?trackingId=phG7gfhD%2BJpy%2BQ8QpIVIyQ%3D%3D
 
 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬:
--Modern Operating Systems, Fifth Edition by Andrew Tanenbaum and Herbert Bos.
--C++20 The Complete Guide by Nicolai Josuttis.
--Concurrency with Modern C++ by Rainer Grimm.
--C++20 for Programmers, 3rd Edition by Paul Deitel and Harvey Deitel.
--Professional C++, 6th Edition by Marc Gregoire.
--Effective Modern C++ by Scott Meyers.
--Modern C++ Programming Cookbook, Third Edition by Marius Bancila.
+    -Modern Operating Systems, Fifth Edition by Andrew Tanenbaum and Herbert Bos.
+    -C++20 The Complete Guide by Nicolai Josuttis.
+    -Concurrency with Modern C++ by Rainer Grimm.
+    -C++20 for Programmers, 3rd Edition by Paul Deitel and Harvey Deitel.
+    -Professional C++, 6th Edition by Marc Gregoire.
+    -Effective Modern C++ by Scott Meyers.
+    -Modern C++ Programming Cookbook, Third Edition by Marius Bancila.
 
