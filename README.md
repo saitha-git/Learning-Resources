@@ -10,6 +10,7 @@ This will be a collection of various knowledge sources from OS,C, DSA to LLMS
 # C:
 Project based Learning:
 1. https://github.com/practical-tutorials/project-based-learning
+2. https://github.com/MuskaanJain2021/C_INTERVIEW_GUIDE/tree/main
 
 # 5G:
 Beam forming types:
