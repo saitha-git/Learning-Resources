@@ -29,3 +29,5 @@ https://www.linkedin.com/pulse/why-how-learn-c-sushim-shrivastava-lru7c/?trackin
 6. Effective Modern C++ by Scott Meyers.
 7. Modern C++ Programming Cookbook, Third Edition by Marius Bancila.
 
+# Embedded Muses
+https://www.ganssle.com/tem-back.htm
