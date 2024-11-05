@@ -6,9 +6,8 @@ This will be a collection of various knowledge sources from OS,C, DSA to LLMS
 # LLMS:
 1. Contains all the papers you need to read to fundamentally understand Language Models.
     https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e#file-normcore-llm-md
-2. Best Visual guide to understand Transformer
+2. Best Visual guide to understand Transformer 
    https://towardsdatascience.com/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e
-
    https://jalammar.github.io/illustrated-transformer/
 
 # C:
