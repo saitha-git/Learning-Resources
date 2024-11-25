@@ -24,6 +24,8 @@ Beam forming types:
 # C++
 https://www.linkedin.com/pulse/why-how-learn-c-sushim-shrivastava-lru7c/?trackingId=phG7gfhD%2BJpy%2BQ8QpIVIyQ%3D%3D
 
+https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf
+
 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬:
 1. Modern Operating Systems, Fifth Edition by Andrew Tanenbaum and Herbert Bos.
 2. C++20 The Complete Guide by Nicolai Josuttis.
