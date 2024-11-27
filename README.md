@@ -28,6 +28,8 @@ https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introdu
 
 https://leanpub.com/u/andreasfertig
 
+QuickNotes : https://medium.com/@litombeg
+
 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬:
 1. Modern Operating Systems, Fifth Edition by Andrew Tanenbaum and Herbert Bos.
 2. C++20 The Complete Guide by Nicolai Josuttis.
