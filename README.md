@@ -44,3 +44,6 @@ https://www.ganssle.com/tem-back.htm
 
 # Inter Thread vs Inter Process communication 
 https://thoughtsengine.medium.com/tech-stack-101-ep-06-interprocess-and-interthread-communication-8cfde424fef7
+
+# Computer Network Fundamentals
+https://courses.cs.washington.edu/courses/csep561/20wi/
