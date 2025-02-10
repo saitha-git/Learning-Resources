@@ -11,6 +11,10 @@ This will be a collection of various knowledge sources from OS,C, DSA to LLMS
 
    https://jalammar.github.io/illustrated-transformer/
 
+3. http://github.com/nivu/ai_all_resources/tree/master/generative_ai
+
+4. https://www.youtube.com/watch?v=7xTGNNLPyMI 
+
 # C:
 Project based Learning:
 1. https://github.com/practical-tutorials/project-based-learning
