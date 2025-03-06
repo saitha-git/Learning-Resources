@@ -1,7 +1,8 @@
 # Learning-Resources
-
 This will be a collection of various knowledge sources from OS,C, DSA to LLMS
 
+# Data Strucutres, Algorithms and Problem Solving Techniques
+https://github.com/ashishps1/awesome-leetcode-resources
 
 # LLMS:
 1. Contains all the papers you need to read to fundamentally understand Language Models.
