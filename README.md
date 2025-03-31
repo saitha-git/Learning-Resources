@@ -53,7 +53,7 @@ https://thoughtsengine.medium.com/tech-stack-101-ep-06-interprocess-and-interthr
 # Computer Network Fundamentals:
 https://courses.cs.washington.edu/courses/csep561/20wi/
 
-#Reinforcement Learning:
+# Reinforcement Learning:
 https://www.youtube.com/watch?v=2pWv7GOvuf0
 https://www.youtube.com/watch?v=YaPSPu7K9S0&list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
 
