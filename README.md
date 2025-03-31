@@ -57,6 +57,6 @@ https://courses.cs.washington.edu/courses/csep561/20wi/
 1. https://www.youtube.com/watch?v=2pWv7GOvuf0 
 2. https://www.youtube.com/watch?v=YaPSPu7K9S0&list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
 
-#Deep Learning
-https://www.youtube.com/watch?v=Q1JCrG1bJ-A&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=15
+# Deep Learning
+1. https://www.youtube.com/watch?v=Q1JCrG1bJ-A&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=15
 
