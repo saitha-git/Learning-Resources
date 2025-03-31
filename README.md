@@ -50,10 +50,10 @@ https://www.ganssle.com/tem-back.htm
 # Inter Thread vs Inter Process communication 
 https://thoughtsengine.medium.com/tech-stack-101-ep-06-interprocess-and-interthread-communication-8cfde424fef7
 
-# Computer Network Fundamentals
+# Computer Network Fundamentals:
 https://courses.cs.washington.edu/courses/csep561/20wi/
 
-#Reinforcement Learning
+#Reinforcement Learning:
 https://www.youtube.com/watch?v=2pWv7GOvuf0
 https://www.youtube.com/watch?v=YaPSPu7K9S0&list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
 
