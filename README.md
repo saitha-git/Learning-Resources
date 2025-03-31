@@ -54,8 +54,8 @@ https://thoughtsengine.medium.com/tech-stack-101-ep-06-interprocess-and-interthr
 https://courses.cs.washington.edu/courses/csep561/20wi/
 
 # Reinforcement Learning:
-https://www.youtube.com/watch?v=2pWv7GOvuf0
-https://www.youtube.com/watch?v=YaPSPu7K9S0&list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
+1. https://www.youtube.com/watch?v=2pWv7GOvuf0 
+2. https://www.youtube.com/watch?v=YaPSPu7K9S0&list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX
 
 #Deep Learning
 https://www.youtube.com/watch?v=Q1JCrG1bJ-A&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=15
