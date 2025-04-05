@@ -36,6 +36,9 @@ https://leanpub.com/u/andreasfertig
 
 QuickNotes : https://medium.com/@litombeg
 
+# Majority Element and Morris Traversal 
+https://www.youtube.com/watch?v=YA-nB2wjVcI&t=1274s
+
 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬:
 1. Modern Operating Systems, Fifth Edition by Andrew Tanenbaum and Herbert Bos.
 2. C++20 The Complete Guide by Nicolai Josuttis.
