@@ -17,6 +17,9 @@ https://www.hellointerview.com/learn/code/depth-first-search/fundamentals
 
 4. https://www.youtube.com/watch?v=7xTGNNLPyMI 
 
+# Prompting Guide
+1. https://www.promptingguide.ai/
+
 # C:
 Project based Learning:
 1. https://github.com/practical-tutorials/project-based-learning
