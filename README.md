@@ -6,6 +6,7 @@ https://github.com/ashishps1/awesome-leetcode-resources
 https://www.hellointerview.com/learn/code/depth-first-search/fundamentals
 
 # LLMS:
+## We went from "train" your AI system to do task X to....talk to your system to do task X. Which makes a world of difference.
 1. Contains all the papers you need to read to fundamentally understand Language Models.
     https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e#file-normcore-llm-md
 2. Best Visual guide to understand Transformer <br>
