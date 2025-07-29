@@ -16,7 +16,10 @@ https://www.hellointerview.com/learn/code/depth-first-search/fundamentals
 
 3. http://github.com/nivu/ai_all_resources/tree/master/generative_ai
 
-4. https://www.youtube.com/watch?v=7xTGNNLPyMI 
+4. https://www.youtube.com/watch?v=7xTGNNLPyMI
+
+5. https://github.com/KalyanKS-NLP/llm-engineer-toolkit?tab=readme-ov-file -- Most comprehensive LLM github repo
+6. 
 
 # Prompting Guide
 1. https://www.promptingguide.ai/
