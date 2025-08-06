@@ -1,6 +1,10 @@
 # Learning-Resources
 This will be a collection of various knowledge sources from OS,C, DSA to LLMS
 
+# How To Remember EVERYTHING Like The Japanese Students (Study Less fr)
+Turn learning to a ritual
+https://www.youtube.com/watch?v=Y4dnlvGBznU
+
 # Data Strucutres, Algorithms and Problem Solving Techniques
 https://github.com/ashishps1/awesome-leetcode-resources
 https://www.hellointerview.com/learn/code/depth-first-search/fundamentals
