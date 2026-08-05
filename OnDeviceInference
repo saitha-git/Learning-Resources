@@ -1,0 +1,21 @@
+Simplified Notes
+
+Why convert at all
+- PyTorch needs a Python/framework runtime → doesn't exist on-chip.
+- NPUs are power-efficient ASICs, but only run their own compiled format (.bin for QNN, .dlc for SNPE, .pte for ExecuTorch).
+- Quantization (int8/int4 — the actual speed/power win) happens during this conversion, not after.
+
+
+The pipeline
+PyTorch/ONNX (dynamic shapes OK)
+   ↓ trace/export — SHAPES MUST BECOME STATIC HERE
+Qualcomm converter (+ quantization)
+   ↓
+.bin (QNN) / .dlc (SNPE) / .pte (ExecuTorch)
+   ↓
+on-device runtime (qnn-net-run / snpe-net-run) — dispatches ops NPU vs CPU fallback
+
+QUAD's own 4-step flow, each step feeding the next:
+convert_model → profile_workload → orchestrate_workload → generate_code
+   (compile)      (measure)          (allocate for          (emit deployable
+                                       power/perf tradeoff)    code/config)
